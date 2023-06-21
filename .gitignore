@@ -1,4 +1,5 @@
 /.DS_Store
 /.env
 /@MuhammadimYusoff.session
-miki.session
+/miki.session
+/*.session
